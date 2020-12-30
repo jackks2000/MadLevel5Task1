@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="reminders_header">Notes</string>
+    <string name="reminders_paragraph">See below for all your notes</string>
+    <string name="add_reminder_header">Add your note</string>
+    <string name="add_reminder_button">ADD NOTE</string>
+    <string name="item_reminder_default">DEFAULT NOTE</string>
+    <string name="not_valid_reminder">Reminder not valid, try again</string>
+    <string name="last_updated">not yet updated</string>
+
+
+
+</resources>
